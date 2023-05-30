@@ -1,0 +1,4 @@
+font-family: 'Open Sans', sans-serif;
+color:
+blue: #1e266d
+light blue: #00AEEF
